@@ -1,0 +1,9 @@
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+Debug/
+Release/
+_UpgradeReport_Files/
+Backup/
+UpgradeLog.*
